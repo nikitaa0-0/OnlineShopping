@@ -1,0 +1,6 @@
+User:  Nikita Shrivastav
+Items:
+ Smartphone - $599.99
+Total Price: $599.99
+Payment Method: CreditCardPayment
+
